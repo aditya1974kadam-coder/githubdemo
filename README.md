@@ -1,2 +1,3 @@
 # github-demo
-learning how to use git/gihub
+Learning how to use git/gihub
+Author - Aditya Kadam
