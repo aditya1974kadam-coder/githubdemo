@@ -1,3 +1,3 @@
 # github-demo
 Learning how to use git/gihub
-Author - Aditya Kadam
+<br>Author - Aditya Kadam
